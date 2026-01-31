@@ -213,14 +213,6 @@ http://127.0.0.1:8000
 
 ---
 
-## 📌 Source Code
-
-* Source code pushed to **GitHub**
-* Repository link:
-  (Add your GitHub repository link here)
-
----
-
 ## 🎥 Video Demonstration
 
 The demo video includes:
