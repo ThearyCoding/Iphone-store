@@ -1,7 +1,5 @@
 
----
 
-````md
 # Final Project – iPhone Store (SSR E-Commerce Website)
 
 ## 📌 Project Overview
@@ -235,9 +233,6 @@ The demo video includes:
 * KHQR payment page
 * Telegram order notification
 * Order history
-
-Video link:
-(Add your video demo link here)
 
 ---
 
