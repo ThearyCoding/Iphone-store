@@ -221,6 +221,7 @@ The demo video includes:
 * Product detail view
 * Add to cart
 * Cart item selection
+* * WishList item selection
 * Checkout process
 * KHQR payment page
 * Telegram order notification
